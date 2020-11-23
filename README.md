@@ -21,13 +21,11 @@ GitHub - for project repository
 
 Java - for backend (server with db)
 
-
 Spring - for Web application (cient views)
 
-# Organizaion
+# Organization
 
-Sprint planning - Tuesdays, 2pm (GMT+3)
-
+Sprint planning - Mondays, 2pm (GMT+3)
 
 Daily meetings - every day, Monday-Friday, 1pm (GMT+3) 
 
