@@ -11,18 +11,26 @@ The idea of the project is to create an application that solves the above proble
 # Technologies
 
 Java - for backend (server with db)
+
+
 Kotlin - for Android application (cient views)
 
 # Organizaion
 
 Sprint planning - Tuesdays, 2pm (GMT+3)
+
+
 Daily meetings - every day, Monday-Friday, 1pm (GMT+3) 
+
 Sprint review - Mondays, 10am (GMT+3)
+
 Sprint restrospective - Mondays, 10am (GMT+3)
 
 # Team:
 Egor Polivtsev - @plohoicod,
+
 Elena Lukyanchikova - @elukyanchikova
+
 SE-17
 
 
