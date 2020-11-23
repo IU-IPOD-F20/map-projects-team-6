@@ -22,7 +22,7 @@ GitHub - for project repository
 Java - for backend (server with db)
 
 
-Kotlin - for Android application (cient views)
+Spring - for Web application (cient views)
 
 # Organizaion
 
