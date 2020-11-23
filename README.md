@@ -8,14 +8,16 @@ With the advent of the pandemic, the educational process went online. The organi
 
 The idea of the project is to create an application that solves the above problems (for example, allows you to upload photos of written answers) and eliminates the stress of students and teachers during the organization of the test.
 
-## Management
+## Management stack
 
-* [Youtrack](https://github.com) for Project Backlog
+* [GitHub](https://github.com) for Project Backlog
 * [Telegram](https://web.telegram.org) for chat communication
 * [Zoom](https://zoom.us/ru-ru/meetings.html) for daily meetings
 * [Pointing Poker](https://www.pointingpoker.com) for Planning Poker
 
-# Technologies
+# Technology stack
+
+GitHub - for project repository
 
 Java - for backend (server with db)
 
