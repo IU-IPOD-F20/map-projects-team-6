@@ -15,7 +15,7 @@ The idea of the project is to create an application that solves the above proble
 * [Zoom](https://zoom.us/ru-ru/meetings.html) for daily meetings
 * [Pointing Poker](https://www.pointingpoker.com) for Planning Poker
 
-# Technology stack
+## Technology stack
 
 GitHub - for project repository
 
@@ -23,7 +23,7 @@ Java - for backend (server with db)
 
 Spring - for Web application (cient views)
 
-# Organization
+## Organization
 
 Sprint planning - Mondays, 2pm (GMT+3)
 
@@ -33,11 +33,13 @@ Sprint review - Mondays, 10am (GMT+3)
 
 Sprint restrospective - Mondays, 10am (GMT+3)
 
-# Team:
+## Team:
 Egor Polivtsev - @plohoicod,
 
 Elena Lukyanchikova - @elukyanchikova
 
 SE-17
 
+## Sprint Reviews
 
+![Sprint Evaluations](https://docs.google.com/spreadsheets/d/e/2PACX-1vTXIhfQzTkLutk3Wp2zWwAcCXQe7GZCZGWMZHp4nMPAgInjsxWohwH5hxwd4N9iyATx-H-QBAiTGWlj/pubchart?oid=1026445089&format=image)
