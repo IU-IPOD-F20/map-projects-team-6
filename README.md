@@ -14,6 +14,7 @@ The idea of the project is to create an application that solves the above proble
 * [Telegram](https://web.telegram.org) for chat communication
 * [Zoom](https://zoom.us/ru-ru/meetings.html) for daily meetings
 * [Pointing Poker](https://www.pointingpoker.com) for Planning Poker
+* [Postman](https://www.postman.com) for testing requests
 
 ## Technology stack
 
