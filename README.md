@@ -24,6 +24,14 @@ Java - for backend (server with db)
 
 Spring - for Web application (cient views)
 
+## Requirements
+
+Java 11
+
+Gradle 6.7.1
+
+Spring 2.3.3
+
 ## Organization
 
 Sprint planning - Mondays, 2pm (GMT+3)
