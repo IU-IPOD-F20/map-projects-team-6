@@ -18,8 +18,8 @@
     </tr>
 
     <tr th:each="user : ${users}">
-        <td th:text="${user.id}">Id</td>
-        <td th:text="${user.login}">Login</td>
+        <td th:text="${user.user_id}">Id</td>
+        <td th:text="${user.username}">Login</td>
         <td th:text="${user.password}">Password</td>
         <td th:text="${user.role}">Role</td>
     </tr>

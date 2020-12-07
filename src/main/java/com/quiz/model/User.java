@@ -21,11 +21,11 @@ public class User {
 
     private Integer enabled;
 
-    public Long getId() {
+    public Long getUser_id() {
         return user_id;
     }
 
-    public String getLogin() {
+    public String getUsername() {
         return username;
     }
 
