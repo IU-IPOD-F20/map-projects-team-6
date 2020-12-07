@@ -14,6 +14,7 @@ The idea of the project is to create an application that solves the above proble
 * [Telegram](https://web.telegram.org) for chat communication
 * [Zoom](https://zoom.us/ru-ru/meetings.html) for daily meetings
 * [Pointing Poker](https://www.pointingpoker.com) for Planning Poker
+* [Postman](https://www.postman.com) for testing requests
 
 ## Technology stack
 
@@ -22,6 +23,14 @@ GitHub - for project repository
 Java - for backend (server with db)
 
 Spring - for Web application (cient views)
+
+## Requirements
+
+Java 11
+
+Gradle 6.7.1
+
+Spring 2.3.3
 
 ## Organization
 
