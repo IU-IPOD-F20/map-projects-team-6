@@ -34,6 +34,10 @@ Spring 2.3.3
 
 PostgreSQL 12.3
 
+## Wiki
+
+[Project wiki page](https://github.com/IU-IPOD-F20/map-projects-team-6/wiki)
+
 ## Organization
 
 Sprint planning - Mondays, 2pm (GMT+3)
