@@ -6,7 +6,7 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 public class SimpleQuizController {
 
-    @RequestMapping("/")
+    @RequestMapping("/quiz")
     public String hello() {
         return "Quiz page";
     }
