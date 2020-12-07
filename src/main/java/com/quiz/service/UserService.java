@@ -20,4 +20,12 @@ public class UserService implements IUserService {
 
         return users;
     }
+
+    @Override
+    public User findById(Long id) {
+
+        User user = repository.findById(id).orElse(new User());
+
+        return user;
+    }
 }
