@@ -32,6 +32,8 @@ Gradle 6.7.1
 
 Spring 2.3.3
 
+PostgreSQL 12.3
+
 ## Organization
 
 Sprint planning - Mondays, 2pm (GMT+3)
