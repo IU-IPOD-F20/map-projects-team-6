@@ -1,4 +1,4 @@
-# MAP-F20-template
+# QUIZ project
 
 This is a repo for MAP course project.
 
