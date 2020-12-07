@@ -1,3 +1,3 @@
 DROP TABLE IF EXISTS users;
 DROP TABLE IF EXISTS cities;
-CREATE TABLE users(id serial PRIMARY KEY, login VARCHAR(255), password VARCHAR(255), role VARCHAR(255));
+CREATE TABLE users(user_id serial PRIMARY KEY, username VARCHAR(255), password VARCHAR(255), role VARCHAR(255), enabled INTEGER);

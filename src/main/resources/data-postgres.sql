@@ -1,1 +1,1 @@
-INSERT INTO users(login, password, role) VALUES('admin', 'admin', 'admin');
+INSERT INTO users(username, password, role, enabled) VALUES('admin', '$2a$10$zxvEq8XzYEYtNjbkRsJEbukHeRx3XS6MDXHMu8cNuNsRfZJWwswDy', 'ROLE_ADMIN', 1);

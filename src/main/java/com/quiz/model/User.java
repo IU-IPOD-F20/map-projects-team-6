@@ -11,20 +11,22 @@ import javax.persistence.Table;
 public class User {
     @Id
     @GeneratedValue(strategy = GenerationType.AUTO)
-    private Long id;
+    private Long user_id;
 
-    private String login;
+    private String username;
 
     private String password;
 
     private String role;
 
-    public Long getId() {
-        return id;
+    private Integer enabled;
+
+    public Long getUser_id() {
+        return user_id;
     }
 
-    public String getLogin() {
-        return login;
+    public String getUsername() {
+        return username;
     }
 
     public String getPassword() {
@@ -33,5 +35,9 @@ public class User {
 
     public String getRole() {
         return role;
+    }
+
+    public Integer getEnabled() {
+        return enabled;
     }
 }
