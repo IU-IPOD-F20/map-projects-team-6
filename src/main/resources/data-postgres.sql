@@ -1,1 +1,1 @@
-INSERT INTO users(login, password, role) VALUES('admin', 'admin', 'admin');
+INSERT INTO users(username, password, role, enabled) VALUES('admin', 'admin', 'ROLE_ADMIN', 1);
