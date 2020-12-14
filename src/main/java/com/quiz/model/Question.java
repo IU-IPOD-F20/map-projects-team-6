@@ -1,5 +1,7 @@
 package com.quiz.model;
 
+import com.fasterxml.jackson.annotation.JsonIgnore;
+
 import javax.persistence.*;
 
 @Entity
@@ -12,5 +14,12 @@ public class Question {
 
     private String question;
 
-    private Long order;
+    private Boolean answer;
+
+    private Integer position;
+
+    @ManyToOne(fetch = FetchType.LAZY, optional = false)
+    @JoinColumn(name = "quiz_id", nullable = false)
+    @JsonIgnore
+    private Quiz quiz;
 }

@@ -13,7 +13,7 @@ public class Quiz {
 
     private String quizName;
 
-    @OneToMany
+    @OneToMany(mappedBy = "quiz", cascade = CascadeType.ALL, fetch = FetchType.LAZY)
     @OrderBy("order")
     private Set<Question> questionSet;
 }
