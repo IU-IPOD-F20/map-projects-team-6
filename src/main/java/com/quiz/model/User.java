@@ -10,7 +10,7 @@ public class User {
     @Column(name = "user_id")
     private Long user_id;
 
-    private String userName;
+    private String username;
 
     private String password;
 
@@ -19,14 +19,14 @@ public class User {
     private Integer enabled;
 
     public User(String newUsername, String newPassword, String newRole, Integer newEnabled) {
-        this.userName = newUsername;
+        this.username = newUsername;
         this.password = newPassword;
         this.role = newRole;
         this.enabled = newEnabled;
     }
 
     public User() {
-        this.userName = null;
+        this.username = null;
         this.enabled = null;
         this.password = null;
         this.role = null;
@@ -37,7 +37,7 @@ public class User {
     }
 
     public String getUsername() {
-        return userName;
+        return username;
     }
 
     public String getPassword() {

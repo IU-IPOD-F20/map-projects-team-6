@@ -22,4 +22,24 @@ public class Question {
     @JoinColumn(name = "quiz_id", nullable = false)
     @JsonIgnore
     private Quiz quiz;
+
+    public Long getQuestion_id() {
+        return question_id;
+    }
+
+    public String getQuestion() {
+        return question;
+    }
+
+    public Boolean getAnswer() {
+        return answer;
+    }
+
+    public Integer getPosition() {
+        return position;
+    }
+
+    public Quiz getQuiz() {
+        return quiz;
+    }
 }

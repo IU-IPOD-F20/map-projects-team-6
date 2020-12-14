@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Quizzes</title>
+</head>
+<body>
+<h2>List of quizzes</h2>
+
+<table>
+    <tr>
+        <th>Quiz Id</th>
+        <th>Quiz name</th>
+    </tr>
+
+    <tr th:each="quiz : ${quizzes}">
+        <td th:text="${quiz.quiz_id}">Id</td>
+        <td th:text="${quiz.quizname}">Name</td>
+    </tr>
+</table>
+
+<h2>List of questions</h2>
+
+<table>
+    <tr>
+        <th>Question Id</th>
+        <th>Question</th>
+        <th>Question Answer</th>
+        <th>Position</th>
+        <th>Quiz Id</th>
+    </tr>
+
+    <tr th:each="question : ${questions}">
+        <td th:text="${question.getQuestion_id()}">Id</td>
+        <td th:text="${question.getQuestion()}">Question</td>
+        <td th:text="${question.getAnswer()}">Answer</td>
+        <td th:text="${question.getPosition()}">Position</td>
+        <td th:text="${question.getQuiz().getQuiz_id()}">Quiz id</td>
+    </tr>
+</table>
+
+</body>
+</html>
