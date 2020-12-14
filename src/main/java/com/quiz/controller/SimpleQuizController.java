@@ -1,13 +1,14 @@
 package com.quiz.controller;
 
-import org.springframework.web.bind.annotation.RequestMapping;
-import org.springframework.web.bind.annotation.RestController;
+import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.ResponseBody;
 
-@RestController
+@Controller
 public class SimpleQuizController {
 
-    @RequestMapping("/showQuiz")
-    public String hello() {
+    @GetMapping("/showQuiz")
+    public String showQuiz() {
         return "showQuiz";
     }
 
