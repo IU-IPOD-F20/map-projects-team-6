@@ -14,7 +14,7 @@ public class UserConroller {
     private UserService userService;
 
     @GetMapping("/showUsers")
-    public String findCities(Model model) {
+    public String findUsers(Model model) {
 
         var users = userService.findAll();
 
