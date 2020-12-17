@@ -34,6 +34,19 @@ Spring 2.3.3
 
 PostgreSQL 12.3
 
+## Clone the repository
+
+1. `git clone https://github.com/IU-IPOD-F20/map-projects-team-6`
+2. `cd map-projects-team-6`
+
+## Branching policy
+- Adding new feature
+`feature/featurename`
+- Fixing
+`fix/featurename`
+- Adding tests
+`testing/unit`
+
 ## Wiki
 
 [Project wiki page](https://github.com/IU-IPOD-F20/map-projects-team-6/wiki)
