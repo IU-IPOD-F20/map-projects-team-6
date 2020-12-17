@@ -49,8 +49,13 @@ PostgreSQL 12.3
 
 ## Wiki
 
-[Project wiki page](https://github.com/IU-IPOD-F20/map-projects-team-6/wiki)
+Informaion about project architecture and progress could be found at [Project wiki page](https://github.com/IU-IPOD-F20/map-projects-team-6/wiki)
 
+## How to define Issue-User story correspondance
+Each issue has ids of US it corresponds to in description
+![example](https://github.com/IU-IPOD-F20/map-projects-team-6/blob/main/illustrations/photo_2020-12-17_12-20-35.jpg)
+
+IDs of User Stories could be found at https://github.com/IU-IPOD-F20/map-projects-team-6/wiki/User-Stories-MoSCoW
 ## Organization
 
 Sprint planning - Mondays, 2pm (GMT+3)
@@ -70,19 +75,19 @@ SE-17
 
 ## Sprint 0 results:
 
-In this sprint, we initialized the project and received recommendations for future improvement of the project. In particular, we decided to use milestones and improve the project description.
+In this sprint, we initialized the project and received recommendations for future improvement of the project. In particular, we decided to use milestones and improved the project description. The standart scheme of sprint procedures(planning meetings, sprint reviews, branching convention) were established. "Must" user stories were created.
 
 ## Sprint 1 results:
 
-In this sprint, we made the first successful commits and received recommendations for improving the project. In particular, we decided to use a special naming of the branches and created a Wiki page for our project. Also, unfortunately, not everything planned was done on time.
+In this sprint, we made the first successful commits and received recommendations for improving the project. In particular, we decided to change a branching policy and use a special naming of the branches and created a Wiki page for our project. Also, unfortunately, not everything planned was done on time.
 
 ## Sprint 2 results:
 
-In this sprint, we have significantly expanded the functionality of our project and completed the tasks of the last sprint. This time, the recommendation included a requirement to add tests and figure out how tasks and user stories are connected.
+In this sprint, we have significantly expanded the functionality of our project and completed the tasks of the last sprint. This time, the recommendation included a requirement to add tests and figure out how tasks and user stories are connected. Faced with a problem of unambiguous linking User Stories to issues( left it to next sprint).
 
 ## Sprint 3 results:
 
-In this sprint, we paid a lot of attention to the functionality and documentation. The main recommendation after the sprint was the addition of CI testing.
+In this sprint, we paid a lot of attention to the functionality and documentation. The main recommendation after the sprint was the addition of CI testing. The prviously mentioned problem of linking US to issues was processed and solved. User Stories updated and extended with "could" and "should" features.
 
 ## Sprint Reviews
 
