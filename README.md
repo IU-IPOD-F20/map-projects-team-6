@@ -68,6 +68,22 @@ Elena Lukyanchikova - @elukyanchikova
 
 SE-17
 
+## Sprint 0 results:
+
+In this sprint, we initialized the project and received recommendations for future improvement of the project. In particular, we decided to use milestones and improve the project description.
+
+## Sprint 1 results:
+
+In this sprint, we made the first successful commits and received recommendations for improving the project. In particular, we decided to use a special naming of the branches and created a Wiki page for our project. Also, unfortunately, not everything planned was done on time.
+
+## Sprint 2 results:
+
+In this sprint, we have significantly expanded the functionality of our project and completed the tasks of the last sprint. This time, the recommendation included a requirement to add tests and figure out how tasks and user stories are connected.
+
+## Sprint 3 results:
+
+In this sprint, we paid a lot of attention to the functionality and documentation. The main recommendation after the sprint was the addition of CI testing.
+
 ## Sprint Reviews
 
 ![Sprint Evaluations](https://docs.google.com/spreadsheets/d/e/2PACX-1vTXIhfQzTkLutk3Wp2zWwAcCXQe7GZCZGWMZHp4nMPAgInjsxWohwH5hxwd4N9iyATx-H-QBAiTGWlj/pubchart?oid=1026445089&format=image)
